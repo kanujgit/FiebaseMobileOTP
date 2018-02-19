@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "758864313980",
+    "firebase_url": "https://firesignin-57281.firebaseio.com",
+    "project_id": "firesignin-57281",
+    "storage_bucket": "firesignin-57281.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758864313980:android:6b52f3f8da979287",
+        "android_client_info": {
+          "package_name": "biz.sharkmedia.firesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758864313980-pn38pl5bkm5pr61khldut92a245h6r7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.sharkmedia.firesignin",
+            "certificate_hash": "699835392b97ae331d8a4d138cfc8fd742a3da7e"
+          }
+        },
+        {
+          "client_id": "758864313980-1qt0b9ndq2ndjip01qj598t91ncp5h36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGHCPYY29ZnqS1bKig8TGV1DZ7xKuMHTw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758864313980-1qt0b9ndq2ndjip01qj598t91ncp5h36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
